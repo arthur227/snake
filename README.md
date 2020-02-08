@@ -1,2 +1,2 @@
 # snake
-Console Python3 snake with curse
+Console Python3 snake With curse
